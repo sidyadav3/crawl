@@ -4,6 +4,7 @@
 
 #include "item-prop-enum.h"
 #include "job-type.h"
+#include "job-def.h"
 #include "species-type.h"
 #include "spell-type.h"
 
